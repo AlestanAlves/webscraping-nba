@@ -16,7 +16,7 @@ sudo cp geckodriver /usr/local/bin/
 import time
 import requests
 import pandas as pd
-import bs4 as BeatifulSoup
+from bs4 import BeautifulSoup
 from selenium import webdriver
 from selenium.webdriver.firefox.options import Options
 import json
