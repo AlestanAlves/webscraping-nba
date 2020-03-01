@@ -1,2 +1,2 @@
-## Web Scraping NBA (JS Dynamic)
+## Web Scraping NBA (with JS Dynamic)
 
