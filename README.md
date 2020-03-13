@@ -1,4 +1,4 @@
-## Web Scraping NBA (with JS Dynamic)
+## Web Scraping NBA with JS Dynamic
 
 - fix error in geckodriver
 
